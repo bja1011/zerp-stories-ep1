@@ -16,7 +16,11 @@ html, body {
   margin: 0;
   font-family: 'Connection';
   color: #fff;
-  background: #000;
+  background: #FFF;
+}
+
+canvas {
+  opacity: 0.3;
 }
 
 .mat-dialog-container {
